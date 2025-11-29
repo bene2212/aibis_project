@@ -1,5 +1,3 @@
-
-
 # 🏦 Credit Risk Assessment & Customer Segmentation (XAI)
 
 This repository contains the solution for a university project. It implements a Machine Learning pipeline to support "Passau Finance" in credit decision-making, featuring a fully interactive **Streamlit Dashboard** with Explainable AI (XAI) capabilities.
